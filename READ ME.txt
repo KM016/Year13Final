@@ -1,0 +1,13 @@
+employee user ID: 1
+employee password: workerpassword1
+
+boss user: boss1
+boss password: password1 
+
+boss2 user: 2
+boss2 password: password2
+
+customer email: keyaan@hamia.com
+customer password: 1222
+
+when signing up to the system, use an email ending in '.com' 

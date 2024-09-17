@@ -15,7 +15,7 @@ $6^{th}$ Form Final project
 3. **Testing (Blackbox Testing)**:  
    To ensure the system worked correctly, I applied **blackbox testing** methods. This involved testing the system's functionality without looking at the internal code structure, ensuring it met the user requirements and performed as expected in a real-world scenario.
 
-4. **Project Report**:  
+4. **Project Report (not currently available)**:  
    The project culminated in a detailed written report that explained each aspect of the development process. This included a breakdown of the system's design, functionality, testing results, and the overall success of the solution in meeting the company's needs.
 
  # The Code
@@ -27,3 +27,5 @@ This project was built using the following technologies:
 - **SQLite**: A lightweight database system used to store and manage the company's data. It provided efficient data storage and retrieval, ensuring the system could handle the required tasks reliably.
 
 The combination of these technologies allowed the creation of a fully functional database system that could meet the needs of the company while being easy to use and maintain.
+
+**Mark:** For this project  I achieved an 80/100
